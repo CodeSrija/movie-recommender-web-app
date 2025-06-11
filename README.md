@@ -1,6 +1,6 @@
 # 🎬 Movie Recommender – Content-Based Filtering
 
-A modular **content-based movie recommendation system** built using metadata from the [TMDB 5000 dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata). It recommends movies based on **overviews, genres, cast, crew**, and **keywords**, using **cosine similarity** on stemmed textual features. Built with **Python**, **Pandas**, **Scikit-learn**, and **NLTK**, and deployed via **Streamlit**. Access the web app at: [http://localhost:8501](http://localhost:8501).
+A modular **content-based movie recommendation system** built using metadata from the [TMDB 5000 dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata). It recommends movies based on **overviews, genres, cast, crew**, and **keywords**, using **cosine similarity** on stemmed textual features. Built with **Python**, **Pandas**, **Scikit-learn**, and **NLTK**, and deployed via **Streamlit**. Access the web app at: [Movie Recommender](https://ml-movie-recommender-app.streamlit.app/).
 
 
 ## 📂 Project Structure
