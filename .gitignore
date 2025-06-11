@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Streamlit secrets and cache
+.streamlit/secrets.toml
+.streamlit/config.toml
+*.streamlit/
+
+# Jupyter and IPython
+.ipynb_checkpoints/
+
+# Pickle and model files
+*.pkl
+model/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and cache
+*.log
+.cache/
