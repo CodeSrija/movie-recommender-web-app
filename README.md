@@ -34,7 +34,7 @@ movie-recommender-web-app/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/movie-recommender-app.git
+git clone https://github.com/CodeSrija/movie-recommender-app.git
 cd movie-recommender-web-app
 ```
 
